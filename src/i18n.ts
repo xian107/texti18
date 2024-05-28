@@ -15,7 +15,7 @@ i18next
                      translation: { 'K1': "Yes" }
                  },
                  cn: {
-                     'K1': '是'
+                    translation: { 'K1': '是' }
                  }
              }, */
             backend: {
@@ -31,7 +31,7 @@ i18next
                                         translation: { 'K1': "Yes" }
                                     },
                                     cn: {
-                                        'K1': '是'
+                                        translation: { 'K1': '是' }
                                     }
                                 },
                             }
